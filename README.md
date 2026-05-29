@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:rishhav1234@gmail.com">📧 rishhav1234@gmail.com</a> &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/rishav-tholeti">💼 LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/rishav-tholeti">https://www.linkedin.com/in/rishhav-t-815975326/</a> &nbsp;•&nbsp;
   <a href="https://github.com/Rish244-afk">🐙 GitHub</a>
 </p>
 
