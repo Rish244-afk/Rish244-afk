@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Rishhav </h1>
+<h1 align="center">Hey, I'm Rishhav T</h1>
 <h3 align="center">AI & Data Science Student · Deep Learning · Generative AI · Multi-Agent Systems</h3>
 
 <p align="center">
@@ -43,13 +43,6 @@
 
 ---
 
-###  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rish244-afk&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rish244-afk&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
 
 <p align="center"> If you find my projects useful, consider starring them!</p>
